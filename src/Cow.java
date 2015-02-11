@@ -45,8 +45,6 @@ public class Cow implements Comparable<Cow> {
 		}
 	}
 	
-	public void printCow(){
-		 
-	}
+
 
 }
